@@ -1,6 +1,10 @@
 a = 'Python is cool'
-print(a[7:-5])
-print(a[7:])
-print('Normal string')
-print(f'{98} Battery street')
-print(a[0:6])
+print(a[7:-5]) #prints is
+print(a[7:]) #prints is cool
+print('Normal string') #prints Normal string
+print(f'{98} Battery street') #prints 98 Battery street
+print(a[0:6]) #prints Python
+print(a[1:3]) #prints yt
+print(a[4:3]) #prints nothing
+print(a[4:5]) #prints o
+
