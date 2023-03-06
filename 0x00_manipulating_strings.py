@@ -7,4 +7,4 @@ print(a[0:6]) #prints Python
 print(a[1:3]) #prints yt
 print(a[4:3]) #prints nothing
 print(a[4:5]) #prints o
-
+print(a[:-1]) #prints Python is coo
